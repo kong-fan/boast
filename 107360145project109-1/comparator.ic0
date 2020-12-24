@@ -1,0 +1,24 @@
+* "simulator" "HSPICE" 
+* "version" "A-2008.03 32-BIT"
+* "format" "HSP"
+* "rundate" "14:43:09 12/09/2020 "
+* "netlist" "c:\users\user\desktop\107360145project109-1\comparator.sp "
+* "runtitle" "****comparator****"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a =   1.3226        
++ b = 441.3653m       
++ c =   1.4854        
++ d = 441.3653m       
++ e =   1.3226        
++ f =   1.4606m       
++ vbias =   1.2000        
++ vc =   1.8000        
++ vdd =   1.8000        
++ vinn = 900.0000m       
++ vinp = 900.0000m       
+***   END: Saved Operating Point ***                     

@@ -1,0 +1,23 @@
+* "simulator" "HSPICE" 
+* "version" "A-2008.03 32-BIT"
+* "format" "HSP"
+* "rundate" "21:38:21 12/02/2020 "
+* "netlist" "c:\users\user\desktop\107360145project109-1\opa.sp "
+* "runtitle" "****opa****"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ b = 650.4331m       
++ n1 = 691.8504m       
++ n2 = 691.8504m       
++ n3 =   1.7031        
++ n4 = 691.8504m       
++ vbias =   1.2000        
++ vdd =   1.8000        
++ vinn = 900.0000m       
++ vinp = 900.0000m       
++ voutput = 749.4520m       
+***   END: Saved Operating Point ***                     

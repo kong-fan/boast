@@ -1,0 +1,23 @@
+* "simulator" "HSPICE" 
+* "version" "A-2008.03 32-BIT"
+* "format" "HSP"
+* "rundate" "14:47:05 12/09/2020 "
+* "netlist" "c:\users\user\desktop\107360145project109-1\driver.sp "
+* "runtitle" "****driver****"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a =  10.7457n       
++ b =   1.8000        
++ c =  10.7457n       
++ d =   1.8000        
++ e =  10.7457n       
++ f =   1.8000        
++ g =  10.7457n       
++ vdd =   1.8000        
++ vin =   1.8000        
++ vout =   1.8000        
+***   END: Saved Operating Point ***                     

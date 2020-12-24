@@ -1,0 +1,20 @@
+* "simulator" "HSPICE" 
+* "version" "A-2008.03 32-BIT"
+* "format" "HSP"
+* "rundate" "13:42:59 10/22/2020 "
+* "netlist" "c:\users\user\desktop\project109-1\srlatch.sp "
+* "runtitle" "****srlatch****"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ q1 = 828.4745m       
++ q2 = 828.4745m       
++ r =   0.            
++ s =   0.            
++ vdd =   1.8000        
++ xsr1.xnor1.c =   1.7112        
++ xsr1.xnor2.c =   1.7112        
+***   END: Saved Operating Point ***                     

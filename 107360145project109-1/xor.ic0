@@ -1,0 +1,24 @@
+* "simulator" "HSPICE" 
+* "version" "A-2008.03 32-BIT"
+* "format" "HSP"
+* "rundate" "21:10:46 11/02/2020 "
+* "netlist" "c:\users\user\desktop\107360145project109-1\xor.sp "
+* "runtitle" "****xor****"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a =   1.8000        
++ b =   1.8000        
++ c =  42.9829n       
++ d =   1.8000        
++ e =   1.8000        
++ vdd =   1.8000        
++ vout =  10.7457n       
++ xnand1.mnas =  21.4915n       
++ xor1.norout =   1.9696n       
++ xnand2.mnas =   6.5709n       
++ xor1.xnor.c =   1.7594        
+***   END: Saved Operating Point ***                     

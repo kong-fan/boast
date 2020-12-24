@@ -1,0 +1,28 @@
+* "simulator" "HSPICE" 
+* "version" "A-2008.03 32-BIT"
+* "format" "HSP"
+* "rundate" "13:35:28 12/09/2020 "
+* "netlist" "c:\users\user\desktop\107360145project109-1\ota.sp "
+* "runtitle" "****ota****"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ isense = 118.0772u       
++ j = 500.0000m       
++ vbias =   1.2000        
++ vdd =   1.8000        
++ vin = 500.0000m       
++ vx =   1.2000        
++ xota1.a = 466.4817m       
++ xota1.b = 692.2568m       
++ xota1.c = 681.5605m       
++ xota1.d = 186.5277m       
++ xota1.e =   1.4710        
++ xota1.f =   1.4402        
++ xota1.g = 658.2673m       
++ xota1.h =   1.5903        
++ xota1.i = 304.8393m       
+***   END: Saved Operating Point ***                     

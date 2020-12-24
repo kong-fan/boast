@@ -1,0 +1,30 @@
+* "simulator" "HSPICE" 
+* "version" "A-2008.03 32-BIT"
+* "format" "HSP"
+* "rundate" "21:35:30 12/08/2020 "
+* "netlist" "c:\users\user\desktop\107360145project109-1\nonoverlap.sp "
+* "runtitle" "****nonoverlap****"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ firstdelayout =   1.8000        
++ invthreeout =   9.2963n       
++ invtwoout =   9.2963n       
++ noroneout =   1.8000        
++ or1out =   1.8000        
++ vdd =   1.8000        
++ vduty =   1.8000        
++ vn =   1.8000        
++ vp =   1.8000        
++ vzcd =   0.            
++ xor1.norout = 913.1569p       
++ xdelaycell1.mid =   9.2963n       
++ xnorone.mpas =   1.8000        
++ xdelaycell2.mid =   9.2963n       
++ xor2.norout =   3.8984n       
++ xor1.xnor.mpas =   1.6711        
++ xor2.xnor.mpas = 437.0455m       
+***   END: Saved Operating Point ***                     

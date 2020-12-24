@@ -1,0 +1,7 @@
+       1 xopa1.
+       2 xcomparator1.
+       3 xsr1.
+       4 xcomparator1.xnot1.
+       5 xcomparator1.xnot2.
+       6 xsr1.xnor1.
+       7 xsr1.xnor2.

@@ -1,0 +1,27 @@
+* "simulator" "HSPICE" 
+* "version" "A-2008.03 32-BIT"
+* "format" "HSP"
+* "rundate" "11:08:44 11/15/2020 "
+* "netlist" "c:\users\user\desktop\107360145project109-1\quantizer.sp "
+* "runtitle" "****quantizer****"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a =   1.8000        
++ b =   1.8000        
++ c =  25.6160m       
++ d =   9.1142n       
++ q1 =   1.8000        
++ q2 =  10.7457n       
++ r =  10.7457n       
++ s =  10.7457n       
++ vclk =   0.            
++ vdd =   1.8000        
++ vinn = 900.0000m       
++ vinp =   0.            
++ xsr1.xnor1.c =   1.8000        
++ xsr1.xnor2.c =   1.8000        
+***   END: Saved Operating Point ***                     

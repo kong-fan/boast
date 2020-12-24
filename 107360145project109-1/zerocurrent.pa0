@@ -1,0 +1,10 @@
+       1 xrs.
+       2 xnor.
+       3 xdelay.
+       4 xcom.
+       5 xrs.xnor1.
+       6 xrs.xnor2.
+       7 xdelay.xinv.
+       8 xdelay.xinv2.
+       9 xcom.xnot1.
+      10 xcom.xnot2.

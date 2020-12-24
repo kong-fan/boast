@@ -1,0 +1,39 @@
+* "simulator" "HSPICE" 
+* "version" "A-2008.03 32-BIT"
+* "format" "HSP"
+* "rundate" "21:15:13 12/15/2020 "
+* "netlist" "c:\users\user\desktop\107360145project109-1\aotc.sp "
+* "runtitle" "****aotc****"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a = 713.8464m       
++ b =  71.0067m       
++ opaout =   1.8000        
++ q2 =   1.8000        
++ r =  10.7457n       
++ vbias =   1.2000        
++ vcom =   0.            
++ vdd =   1.8000        
++ vduty =  10.7457n       
++ vfb = 900.0000m       
++ vin =   1.2000        
++ vinn = 444.4648m       
++ vinp = 600.0000m       
++ xopa1.b = 650.4331m       
++ xopa1.n1 = 902.0768m       
++ xopa1.n2 = 152.7783m       
++ xopa1.n3 =   1.5338        
++ xopa1.n4 = 152.7783m       
++ xcomparator1.a =   1.7770        
++ xcomparator1.b =  36.7591n       
++ xcomparator1.c = 868.6247m       
++ xcomparator1.d = 525.5204m       
++ xcomparator1.e = 940.7107n       
++ xcomparator1.f =   1.8000        
++ xsr1.xnor1.c =   1.8000        
++ xsr1.xnor2.c =   1.8000        
+***   END: Saved Operating Point ***                     

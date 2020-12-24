@@ -1,0 +1,34 @@
+* "simulator" "HSPICE" 
+* "version" "A-2008.03 32-BIT"
+* "format" "HSP"
+* "rundate" "22:01:27 12/08/2020 "
+* "netlist" "c:\users\user\desktop\107360145project109-1\zerocurrent.sp "
+* "runtitle" "****zerocurrentdect****"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ comout =   0.            
++ delaycellout =   1.8000        
++ norout =  10.7457n       
++ vbias =   1.8000        
++ vdd =   1.8000        
++ vn =   1.8000        
++ vout =   1.8000        
++ vx =   0.            
++ vzcd =   1.9696n       
++ xrs.q =   1.8000        
++ xnor.mpas =   1.8000        
++ xdelay.con =  10.7457n       
++ xcom.a =   1.7747        
++ xcom.b =   5.2029m       
++ xcom.c = 386.8993m       
++ xcom.d =  51.7374m       
++ xcom.e =   1.2564        
++ xcom.f =   5.3478m       
++ xcom.vc =   1.8000        
++ xrs.xnor1.mpas =   1.8000        
++ xrs.xnor2.mpas =   1.7594        
+***   END: Saved Operating Point ***                     

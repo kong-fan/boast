@@ -1,0 +1,6 @@
+       1 xnand1.
+       2 xor1.
+       3 xnand2.
+       4 xnot1.
+       5 xor1.xnor.
+       6 xor1.xnot.

@@ -1,0 +1,15 @@
+       1 xor1.
+       2 xdelaycell1.
+       3 xinvtwo.
+       4 xinvthree.
+       5 xnorone.
+       6 xdelaycell2.
+       7 xor2.
+       8 xor1.xnor.
+       9 xor1.xinv.
+      10 xdelaycell1.xinv1.
+      11 xdelaycell1.xinv2.
+      12 xdelaycell2.xinv1.
+      13 xdelaycell2.xinv2.
+      14 xor2.xnor.
+      15 xor2.xinv.
